@@ -68,6 +68,8 @@ formato de conexion a la base de datos local
 
 abajo de la cadena de conexion colocar estas 2 variables de entorno en el .env y con esto ya el proyecto funciona 
 
+```
 NEXTAUTH_JWT_SECRET="NEXT_AUTH_JWT_SECRET"
 NEXTAUTH_SECRET="NEXT_AUTH_SECRET"
+```
 
